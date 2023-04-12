@@ -1,0 +1,9 @@
+welcome to coding journey
+
+Python
+Django 
+React
+Html
+Css
+Javascript
+Oracle
