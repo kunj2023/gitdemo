@@ -7,3 +7,6 @@ Html
 Css
 Javascript
 Oracle
+
+PHP
+Jquery
