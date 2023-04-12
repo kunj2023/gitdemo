@@ -13,6 +13,9 @@ PHP
 
 Kubernates
 
+Swift
+Ruby
+
 VB.net
 R
 
